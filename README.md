@@ -11,4 +11,5 @@
 # ** BATCH DURATION** - 15 January 2025 to 15 February 2025
 
 
-OUTPUT TASK 1 - ![Image](https://github.com/user-attachments/assets/97dd8b7a-846d-4f1a-becf-64f15fb2c10b)
+OUTPUT TASK 1 - NUMBER GAME 
+![Image](https://github.com/user-attachments/assets/97dd8b7a-846d-4f1a-becf-64f15fb2c10b)
