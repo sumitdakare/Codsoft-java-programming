@@ -19,3 +19,6 @@ OUTPUT TASK 2- STUDENT GRADE CALCULATOR
 
 OUTPUT TASK 4 -CURRENCY CONVERTER
 ![Image](https://github.com/user-attachments/assets/ce20f1ac-6817-44d0-8c19-2fa84630e4af)
+
+OUTPUT TASK 5-STUDENT MANAGEMENT SYSTEM
+![Image](https://github.com/user-attachments/assets/f66d84e1-2bf5-4688-a524-022043f6a7ae)
