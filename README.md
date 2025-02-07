@@ -17,6 +17,8 @@ OUTPUT TASK 1 - NUMBER GAME
 OUTPUT TASK 2- STUDENT GRADE CALCULATOR
 ![Image](https://github.com/user-attachments/assets/79c45147-006d-44df-978b-5adc105c8ac5)
 
+OUTPUT TASK 3 -ATM INTERFACE
+
 OUTPUT TASK 4 -CURRENCY CONVERTER
 ![Image](https://github.com/user-attachments/assets/ce20f1ac-6817-44d0-8c19-2fa84630e4af)
 
